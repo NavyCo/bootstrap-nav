@@ -1,6 +1,8 @@
 # bootstrap-nav
 _Generate bootstrap nav's from javascript objects._
 
+[![Build Status](https://drone.io/github.com/mvhenten/bootstrap-nav/status.png)](https://drone.io/github.com/mvhenten/bootstrap-nav/latest)
+
 Because typing HTML is harsh. And setting the active link to `class="active"` manually is quite
 onerous, here's a module that will generate the right html for you.
 
