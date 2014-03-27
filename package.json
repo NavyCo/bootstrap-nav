@@ -17,7 +17,7 @@
     "generate"
   ],
     "author": "Matthijs van Henten",
-    "license": "BSD",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/mvhenten/bootstrap-nav/issues"
     },
